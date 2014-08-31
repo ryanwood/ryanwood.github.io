@@ -11,7 +11,7 @@ links:
   - name:         About
     url:          /
   - name:         Blog
-    url:          /posts
+    url:          /blog
   - name:         Archives
     url:          /archives
   - name:         GitHub
