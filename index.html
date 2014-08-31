@@ -1,12 +1,28 @@
 ---
 layout: index
+title: My World
 ---
+<div class="brand">
+  <div class="logo moonclerk">
+    <a href="http://www.moonclerk.com"><img src="/images/mc.jpg" alt="MoonClerk" /></a>
+  </div>
+  <p>Co-Founded with <a href="http://doddcaldwell.com/">Dodd Caldwell</a></p>
+  <hr />
 
-<ul class="posts">
-  {% for post in site.posts %}
-  <li>
-    <small class="datetime muted" data-time="{{ post.date }}">{{ post.date | date_to_string }} </small>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
+  <div class="logo deerlab">
+     <a href="http://www.deerlab.com"><img src="/images/deerlab.svg" alt="DeerLab" /></a>
+  </div>
+  <p>Co-Founded with <a href="https://dribbble.com/jonlivingston">Jon Livingston</a></p>
+  <hr />
+
+  <div class="logo ironyard">
+     <a href="http://theironyard.com"><img src="/images/tiy.png" alt="The Iron Yard" /></a>
+  </div>
+  <p>Accelerator Graduate &amp; Mentor</p>
+  <hr />
+
+  <div class="logo greenville">
+     <a href="http://www.lifeingreenville.com"><img src="/images/lig.png" alt="Life in Greenville" /></a>
+  </div>
+  <p>Proudly live &amp; work in Greenville, SC</p>
+</div>

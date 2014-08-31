@@ -360,3 +360,23 @@ img {
   margin-left: -340px; }
 .paging .right {
   margin-left: 320px; }
+
+
+.avatar {
+  border-radius: 128px;
+}
+
+.brand {
+  text-align:center; }
+  .logo {
+    margin: 0 40px 10px;
+    padding: 20px 50px;
+    text-align: center; }
+    .logo img { max-width: 100%; max-height: 100%; }
+    .logo a:hover { background-image: none; }
+    /*p.logo img { width: 100%; }*/
+  .brand .deerlab { background-color:#2F261E; }
+  .brand .deerlab img { width: 300px;}
+
+  .brand .ironyard { padding: 0; }
+  .brand .ironyard img { height: 170px;}

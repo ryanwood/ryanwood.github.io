@@ -1,0 +1,18 @@
+---
+layout: index
+---
+
+<div class="posts">
+  {% for post in site.posts limit:5 %}
+  <section class='post'>
+    <h1 class="upcase">
+      <div class='date'>{{ post.date | date_to_string }}</div>
+      {{ post.title }}
+    </h1>
+    {{ post.content }}
+  </section>
+  <hr>
+  {% endfor %}
+</div>
+
+<a href="/archives">Want more? Checkout the archives</a>
