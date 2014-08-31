@@ -2,6 +2,7 @@
 ---
 
 @import "bourbon/bourbon";
+@import "custom";
 
 $background: #f9f9f9;
 
@@ -257,26 +258,4 @@ img {
   }
   .left { margin-left: -340px; }
   .right {  margin-left: 320px; }
-}
-
-.avatar {
-  border-radius: 128px;
-}
-.brand {
-  text-align:center;
-  .logo {
-    margin: 0 40px 10px;
-    padding: 20px 50px;
-    text-align: center;
-    img { max-width: 100%; max-height: 100%; }
-    a:hover { background-image: none; }
-  }
-  .deerlab {
-    background-color:#2F261E;
-    img { width: 300px; }
-  }
-  .ironyard {
-    padding: 0;
-    img { height: 170px; }
-  }
 }
