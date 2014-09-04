@@ -1,28 +1,17 @@
 ---
-layout: index
-title: My World
+layout: null
 ---
-<div class="brand">
-  <div class="logo moonclerk">
-    <a href="http://www.moonclerk.com"><img src="/images/mc.jpg" alt="MoonClerk" /></a>
-  </div>
-  <p>Co-Founded with <a href="http://doddcaldwell.com/">Dodd Caldwell</a></p>
-  <hr />
-
-  <div class="logo deerlab">
-     <a href="http://www.deerlab.com"><img src="/images/deerlab.svg" alt="DeerLab" /></a>
-  </div>
-  <p>Co-Founded with <a href="https://dribbble.com/jonlivingston">Jon Livingston</a></p>
-  <hr />
-
-  <div class="logo ironyard">
-     <a href="http://theironyard.com"><img src="/images/tiy.png" alt="The Iron Yard" /></a>
-  </div>
-  <p>Accelerator Graduate &amp; Mentor</p>
-  <hr />
-
-  <div class="logo greenville">
-     <a href="http://www.lifeingreenville.com"><img src="/images/lig.png" alt="Life in Greenville" /></a>
-  </div>
-  <p>Proudly live &amp; work in Greenville, SC</p>
-</div>
+<html>
+  <head>
+    <meta content='{{ site.title }}' property='og:title' />
+    <title>{{ site.title }}</title>
+    {% include head.html %}
+  </head>
+  <body>
+    {% include header.html %}
+    <div id='container'>
+      {% include links.html %}
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

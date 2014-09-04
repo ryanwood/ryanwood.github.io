@@ -8,24 +8,12 @@ google_analytics: UA-3709570-8
 share: y
 
 links:
-  - name:         About
-    url:          /
   - name:         Blog
     url:          /blog
   - name:         Archives
     url:          /archives
-  - name:         GitHub
-    url:          http://github.com/ryanwood
-    external:     true
-  - name:         Twitter
-    url:          http://twitter.com/ryanwood
-    external:     true
-  - name:         LinkedIn
-    url:          http://github.com/ryanwood
-    external:     true
-  - name:         Email
-    url:          mailto:hello@ryanwood.com
-    external:     true
+  - name:         About
+    url:          /about
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
