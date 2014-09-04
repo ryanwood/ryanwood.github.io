@@ -1,8 +1,8 @@
 title:            Ryan Wood
 description:      Unclear Thoughts on Software Development
-url:              # Site url.
+url:              http://ryanwood.com
 signoff:          Ryan
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+disqus_shortname: ryanwood # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: UA-3709570-8
 share: y
