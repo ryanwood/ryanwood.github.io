@@ -1,8 +1,6 @@
 ---
 layout: post
 title: A Chrome Update Breaks CDN Fonts
-disqus: y
-share: y
 ---
 
 Last Friday afternoon, I was happily looking forward to a long Labor Day weekend. My [business partner][dodd] has left for the beach and I was handling customer service. I log into our production [MoonClerk][mc] app, and low and behold, all of our custom fonts were broken. Then the tweets came.
