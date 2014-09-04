@@ -183,7 +183,13 @@ section.post {
   border-top: 0;
   padding: 0;
   > * { padding: 0 60px; }
-  ul, ol { ul, ol { margin-left: 20px; padding: 0; } }
+  ul, ol {
+    margin-left: 40px;
+    ul, ol {
+      margin-left: 20px;
+      padding: 0;
+    }
+  }
   h1 {
     text-transform: uppercase;
     text-align: center;
