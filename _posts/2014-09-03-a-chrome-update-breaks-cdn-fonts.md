@@ -1,6 +1,8 @@
 ---
 layout: post
-title: “A Chrome Update Breaks CDN Fonts”
+title: A Chrome Update Breaks CDN Fonts
+disqus: y
+share: y
 ---
 
 Last Friday afternoon, I was happily looking forward to a long Labor Day weekend. My [business partner][dodd] has left for the beach and I was handling customer service. I log into our production [MoonClerk][mc] app, and low and behold, all of our custom fonts were broken. Then the tweets came.
@@ -11,7 +13,7 @@ I’m at a total loss. No deploy, nothing changed. It’s just broken. This star
 
 I realize after stumbling on [this post and seeing the Aug 28 update][chrome] that Google automatically updated Chrome and the new version stop allowing cross origin fonts from loading. Here is our situation:
 
-* Heroku 
+* Heroku
 * Amazon CloudFront CDN
 * SSL Only
 
