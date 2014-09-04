@@ -5,7 +5,6 @@ signoff:          Ryan
 disqus_shortname: ryanwood # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: UA-3709570-8
-share: y
 
 links:
   - name:         Blog
@@ -20,3 +19,12 @@ markdown:         redcarpet
 redcarpet:
   extensions:
     - smart
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      share: y
+      disqus: y
