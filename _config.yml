@@ -11,8 +11,6 @@ links:
     url:          /blog
   - name:         Archives
     url:          /archives
-  - name:         About
-    url:          /about
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
