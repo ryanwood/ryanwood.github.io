@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Yevgeniy Brikman: Speaking"
+title: "Ryan Wood: Speaking"
 redirect_from: "/talks"
 header_title: Speaking
 include_header: speaking_header.html
@@ -11,7 +11,7 @@ nav_item: speaking
   <div class="border-bottom border-light-gray mt4 mb4 pb3 circle-line">
     <a href="{{ talk.links | map: 'url' | first }}" target="_blank" name="{{ talk.name | downcase | replace:' ','-' | remove:',' }}">
       <h2>{{ talk.name }}</h2>
-    </a>  
+    </a>
     {% include iframe.html url=talk.embed_url %}
     <p>
       {{ talk.description }}
@@ -20,11 +20,11 @@ nav_item: speaking
       Formats:
       {% for link in talk.links %}
         <a href="{{ link.url }}" target="_blank">{{ link.label }}</a>{% unless forloop.last %},{% endunless %}
-      {% endfor %}      
+      {% endfor %}
     </p>
-    <p class="h6 mt0"> 
-      Date:    
+    <p class="h6 mt0">
+      Date:
       <time class="inline" datetime="{{ talk.date | date:"%Y-%m-%d" }}">{{ talk.date | date_to_string }}</time>
-    </p>    
+    </p>
   </div>
 {% endfor %}
