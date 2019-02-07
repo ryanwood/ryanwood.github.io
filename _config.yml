@@ -6,6 +6,7 @@ nav:
   main:
     writing: "/writing"
     projects: "/projects"
+    speaking: "/speaking"
     photos: "https://ryanw.smugmug.com"
   writing:
     all: "/writing"
