@@ -20,6 +20,8 @@ thumbnail_path: "profile-photos/ryan-wood-small.jpg"
 moonclerk_url: "https://www.moonclerk.com"
 deerlab_url: "https://www.deerlab.com"
 living_in_greenville_url: "http://www.lifeingreenville.com"
+disqus_shortname: "ryanwood" # disqus comment thread for post header options. ( leave blank if unwanted. )
+google_analytics: "UA-3709570-8"
 
 # URLs
 contact_urls:
@@ -33,7 +35,7 @@ contact_urls:
     label: "LinkedIn"
     icon: "linkedin-square"
   facebook:
-    url: "https://www.facebook.com/kryanwood"
+    url: "https://www.facebook.com/woodr"
     label: "Facebook"
     icon: "facebook-square"
   github:
