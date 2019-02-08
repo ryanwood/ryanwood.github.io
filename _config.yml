@@ -1,27 +1,67 @@
-title:            Ryan Wood
-description:      Unclear Thoughts on Software Development
-url:              http://ryanwood.com
-signoff:          Ryan
-disqus_shortname: # ryanwood # disqus comment thread for post header options. ( leave blank if unwanted. )
-facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: UA-3709570-8
+# Website settings
+url: "https://www.ryanwood.com"
 
-links:
-  - name:         Blog
-    url:          /blog
-  - name:         Archives
-    url:          /archives
-highlighter:      pygments
-permalink:        pretty
-markdown:         redcarpet
-redcarpet:
-  extensions:
-    - smart
+# Internal nav
+nav:
+  main:
+    writing: "/writing"
+    projects: "/projects"
+    # speaking: "/speaking"
+    # photos: "https://ryanw.smugmug.com"
+  writing:
+    all: "/writing"
+    popular: "/writing/popular"
+    tags: "/writing/tags"
+    rss: "/feed.xml"
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      share: y
+# Bio settings
+name: "Ryan Wood"
+description: "The home page of Ryan Wood, co-founder &amp; CTO of MoonClerk and co-founder &amp; CTO of DeerLab."
+thumbnail_path: "profile-photos/ryan-wood-small.jpg"
+moonclerk_url: "https://www.moonclerk.com"
+deerlab_url: "https://www.deerlab.com"
+living_in_greenville_url: "http://www.lifeingreenville.com"
+disqus_shortname: "ryanwood" # disqus comment thread for post header options. ( leave blank if unwanted. )
+google_analytics: "UA-3709570-8"
+
+# URLs
+contact_urls:
+  twitter:
+    url: "https://twitter.com/ryanwood"
+    label: "Twitter"
+    icon: "twitter-square"
+    username: "@ryanwood"
+  linkedin:
+    url: "https://www.linkedin.com/in/ryanwood"
+    label: "LinkedIn"
+    icon: "linkedin-square"
+  facebook:
+    url: "https://www.facebook.com/woodr"
+    label: "Facebook"
+    icon: "facebook-square"
+  github:
+    url: "https://github.com/ryanwood/"
+    label: "GitHub"
+    icon: "github-square"
+  email:
+    url: "mailto:ryan@ryanwood.com"
+    label: "Email"
+    value: "ryan@ryanwood.com"
+    icon: "envelope-square"
+
+# Jekyll build settings
+paginate: 10
+paginate_path: "/writing/page:num"
+permalink: "/writing/:title/"
+sass:
+  sass_dir: "/assets/css"
+  style: :compressed
+highlighter: rouge
+timezone: "America/New_York"
+repository: ryanwood/ryanwood.github.io
+
+# Plugins (GitHub Pages only support a few)
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-paginate

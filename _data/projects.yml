@@ -1,0 +1,17 @@
+- name: "MoonClerk"
+  date: "2012-Present"
+  description: |
+    I'm the co-founder of MoonClerk, a company that helps businesses configure and
+    accept payment without any coding in less than 5 minutes. Our suite of tools
+    enable companies to automate their business' back office by getting out
+    of their way so they can focus on what matters most.
+  url: "https://www.moonclerk.com"
+  image: "moonclerk.jpg"
+- name: "DeerLab"
+  date: "2013-Present"
+  description: |
+    I'm the co-founder of DeerLab, a company that brings life to your static
+    trail cam photos. Learn when and where to hunt specific animals all while
+    simplifying how you manage and share photos.
+  url: "https://www.deerlab.com"
+  image: "deerlab.png"
