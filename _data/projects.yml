@@ -1,9 +1,17 @@
 - name: "MoonClerk"
   date: "2012-Present"
   description: |
-    I'm the co-founder of Gruntwork, a company that helps startups get up and running on AWS with DevOps best practices
-    and world-class infrastructure. Our mission is to make it an order of magnitude easier to understand, develop, and
-    deploy software. We take care of all the "undifferentiated heavy lifting"—the grunt work—so that your team can
-    focus on the products and services unique to your company.
+    I'm the co-founder of MoonClerk, a company that helps businesses configure and
+    accept payment without any coding in less than 5 minutes. Our suite of tools
+    enable companies to automate their business' back office by getting out
+    of their way so they can focus on what matters most.
   url: "https://www.moonclerk.com"
   image: "moonclerk.jpg"
+- name: "DeerLab"
+  date: "2013-Present"
+  description: |
+    I'm the co-founder of DeerLab, a company that brings life to your static
+    trail cam photos. Learn when and where to hunt specific animals all while
+    simplifying how you manage and share photos.
+  url: "https://www.deerlab.com"
+  image: "deerlab.png"

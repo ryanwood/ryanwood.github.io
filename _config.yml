@@ -6,8 +6,8 @@ nav:
   main:
     writing: "/writing"
     projects: "/projects"
-    speaking: "/speaking"
-    photos: "https://ryanw.smugmug.com"
+    # speaking: "/speaking"
+    # photos: "https://ryanw.smugmug.com"
   writing:
     all: "/writing"
     popular: "/writing/popular"
@@ -57,8 +57,8 @@ sass:
   sass_dir: "/assets/css"
   style: :compressed
 highlighter: rouge
-timezone: 'America/New_York'
-# repository: brikis98/yevgeniy-brikman-homepage
+timezone: "America/New_York"
+repository: ryanwood/ryanwood.github.io
 
 # Plugins (GitHub Pages only support a few)
 plugins:
