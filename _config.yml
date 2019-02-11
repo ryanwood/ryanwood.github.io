@@ -21,8 +21,13 @@ thumbnail_path: "profile-photos/ryan-wood-small.jpg"
 moonclerk_url: "https://www.moonclerk.com"
 deerlab_url: "https://www.deerlab.com"
 living_in_greenville_url: "http://www.lifeingreenville.com"
+
 disqus_shortname: "ryanwood" # disqus comment thread for post header options. ( leave blank if unwanted. )
 google_analytics: "UA-3709570-8"
+mailchimp:
+  host: ryanwood.us20.list-manage.com
+  list_id: 14bdbb5d44
+  user_id: 366f9fc0d565a9fbd58620bab
 
 # URLs
 contact_urls:
