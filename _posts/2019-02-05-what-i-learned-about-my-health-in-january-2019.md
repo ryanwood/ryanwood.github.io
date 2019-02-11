@@ -2,8 +2,7 @@
 layout: post
 title:  What I Learned about my Health in January 2019
 date: 2019-02-05
-tags:
-  - Health
+tags: [Health]
 thumbnail_path: blog/what-i-learned/empty-plate.jpg
 popular: true
 excerpt: |
