@@ -12,6 +12,8 @@
     <figcaption>
       {% if include.url %}
         <a href="{{ include.url }}" target="_blank">{{ include.caption }}</a>
+      {% elsif include.caption_url %}
+        <a href="{{ include.caption_url }}" target="_blank">{{ include.caption }}</a>
       {% else %}
         {{ include.caption }}
       {% endif %}
