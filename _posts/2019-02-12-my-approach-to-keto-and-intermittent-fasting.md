@@ -9,9 +9,9 @@ I should probably start with a little history. I've done low carb, higher protei
 
 For me, they've all progressed and ended the same way. I begin with hope and some initial quick weight loss. I continue to follow it closely and over some months lose between 15 and 50 lbs. It eventually  becomes unsustainably difficult. I go back to eating they way I did before and regain whatever weight was lost over the next few months. Ugh. Yo-yo dieting sucks.
 
-Previously, I did these diets to lose weight and mainly, if I'm honest, to look better. My health was never the primary motivation. That's changing now I'm facing Type 2 Diabetes and all the complications that that brings. My health is now the primary motion in my journey toward healing and a better life.
+Previously, I did these diets to lose weight and mainly, if I'm honest, to look better. My health was never the primary motivation. That's changing now that I'm facing Type 2 Diabetes and all the complications that it brings. My health is now the primary motion in my journey toward healing and a better life.
 
-### How I Eat
+### Eating
 
 {% include figure.html path=page.thumbnail_path caption="Photo by amirali mirhashemian on Unsplash" caption_url="https://unsplash.com/photos/eRyMytuT0yg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" %}
 
@@ -27,7 +27,7 @@ There are a ton of great receipes on [Diet Doctor](https://www.dietdoctor.com/lo
 
 Here's the thing... *I've discovered that what you eat is important, but it's the smallest part of getting healthy, lowering insulin levels, and reverseing diabetes.*
 
-### When I Don't Eat
+### Not Eating
 
 {% include figure.html path="blog/how-i-keto-if/aron-visuals-322314-unsplash.jpg" caption="Photo by Aron Visuals on Unsplash" caption_url="https://unsplash.com/photos/BXOXnQ26B7o?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" %}
 
@@ -40,7 +40,7 @@ The structure I started with is called 16/8. You have a 16 hour fast (8pm - 12pm
 When I realized I wouldn't die after missing a meal, I realized I could try longer periods. Over the past month I've added 20, 24, 36, and 48 hour fasts. I even did one 120 hour water fast (5 days). Here's what I realized:
 
 * Because of the higher fat keto diet, I'm not hungry when I fast.
-* My mind functions much better when fasted.
+* My mind functions much better when a fasted state.
 * I feel better during a fast than during my eating window.
 * My body wasn't meant to eat every few hours. I've been putting way too much food in it for many years.
 * My metabolism switches (after an initial adjustment period) to burning stored fat rather than the glycogen stores from my food.
@@ -49,7 +49,7 @@ When I realized I wouldn't die after missing a meal, I realized I could try long
 
 This is just the tip of the iceberg of the benefits I've found as I fast. *Structuring how you eat, by definition, changes your relationship with food for the better.* It also frees you up from not having to figure out what to eat all the time. It's really amazing.
 
-As a note, the 2nd day of my 5 day fast, I started getting a cold. I was worried that I'd need to quit and try to get better. I did a little research and everything I saw said that fasting help rid the body of toxins including sickness so I stuck it out. By day 5, my cold was gone! Crazy.
+As a note, the 2nd day of my 5 day fast, I started getting a cold. I was worried that I'd need to quit and try to get better. I did a little research and everything I saw said that fasting helps rid the body of toxins including sickness so I stuck it out. By day 5, my cold was gone! Crazy.
 
 I'm still experimenting with it but see this as a long term solution to improving my health. As of today, I'm down 30 lbs in the first month, my blood pressure is normalizing, my lower legs no longer swell by the end of the day, and I have more energy than I've had in years.
 
