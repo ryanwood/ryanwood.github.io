@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "My Approach to Keto and Intermittent Fasting"
 tags: [Health]
 thumbnail_path: blog/how-i-keto-if/amirali-mirhashemian-1154989-unsplash.jpg
 ---
