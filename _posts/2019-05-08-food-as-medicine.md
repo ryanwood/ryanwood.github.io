@@ -5,13 +5,13 @@ tags: [Health, Inspiration]
 thumbnail_path: 'blog/food-as-medicine/food-as-medicine.jpg'
 ---
 
-Eating is somthing we all do everyday. For some, it's a joy bordering on idolization. For others, it's a burden full of pitfalls and frustration. Until recently I didn't think very much about this act of putting things in our mouths, chewing it, and injesting it.
+Eating is something we all do everyday. For some, it's a joy bordering on idolization. For others, it's a burden full of pitfalls and frustration. Until recently I didn't think very much about this act of putting things in our mouths, chewing it, and injesting it.
 
 {% include figure.html path=page.thumbnail_path caption="Photo by George Pagan III on Unsplash" caption_url="https://unsplash.com/search/photos/food-as-medicine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" %}
 
 Hippocrates, the father of modern medicine wrote, "Let food be thy medicine and medicine be thy food." In my case, I've show this to be true. I'm going to reflect on the journey over the past 4 months or so of changing my relationship with this thing called eating and how it's had rippling effects in other areas of my life.
 
-In January of this year I decided to [take my health back and reverse my Type 2 Diabetes]({% post_url 2019-02-05-what-i-learned-about-my-health-in-january-2019 %}). I started at 270 lbs. Today, just over 4 months later, **I've lost 53 lbs**. and weigh 217 lbs. My pants size has dropped from 40-42 to a 36 with room to spare. 
+In January of this year I decided to [take my health back and reverse my Type 2 Diabetes]({% post_url 2019-02-05-what-i-learned-about-my-health-in-january-2019 %}). I started at 270 lbs. Today, just over 4 months later, **I've lost 53 lbs**. and weigh 217 lbs. My pants size has dropped from 40-42 to a 36 with room to spare.
 
 {% include figure.html path="blog/food-as-medicine/weight_chart_2019-01-02_to_2019-05-05.png" caption="Weight Loss from Jan 2 - May 5, 2019" %}
 
@@ -23,7 +23,7 @@ Since 2013, which is the earliest access I have to my blood work electronically,
 
 In addition to weight loss and better blood work, I've also titrated myself off of both my medications for high blood pressure and for cholesterol. *While I don't recommend doing this, I needed to as I was getting very low blood pressure and couldn't get in to see my doctor in the meantime. *Both my blood pressure and cholesterol numbers are equivlent to when I was on the medication previously. **Today, I'm officially medication free.**
 
-When I started this journey, I had been doing crossfit 2-3 days a week for the past 3 years. Because I wan't going enough, I was constantly sore and kept hurting myself (straining my back or knees). Going to the gym also created some problems with my weight loss trajectory. I would lose some but then gain some muscle. It was really hard to tell if I was losing fat or gaining muscle. In February, **I decided to quit the gym so I could get healthy**. Let that sink in. In an effort to create fewer joint problems and see true fat loss, I decide to continue eating keto, do intermittant fasting, and just walk. I walk at lunch if I'm fasting. I hike trails when I can. I walk with my wife around the neighborhood. It's been really good. The plan is to continue until I get to my "goal weight" and then start adding weightlifting back in to build strength. More on "goal weight" later. 
+When I started this journey, I had been doing crossfit 2-3 days a week for the past 3 years. Because I wan't going enough, I was constantly sore and kept hurting myself (straining my back or knees). Going to the gym also created some problems with my weight loss trajectory. I would lose some but then gain some muscle. It was really hard to tell if I was losing fat or gaining muscle. In February, **I decided to quit the gym so I could get healthy**. Let that sink in. In an effort to create fewer joint problems and see true fat loss, I decide to continue eating keto, do intermittant fasting, and just walk. I walk at lunch if I'm fasting. I hike trails when I can. I walk with my wife around the neighborhood. It's been really good. The plan is to continue until I get to my "goal weight" and then start adding weightlifting back in to build strength. More on "goal weight" later.
 
 From a physical perspective, I'm starting to take my life back. I feel better, look better, and am reducing my risk factors. Keep in mind, this is all from changing what I put in my mouth and when I do it. That's pretty amazing.
 
@@ -33,7 +33,7 @@ It feels good to reflect on my progress. This is not, however, the reality that 
 
 Thankfully, I don't crave sugar or very many other things to eat. I find eating keto to be very satisfying. The thing I miss is the fellowship and joy around eating and/or drinking. It's not that I don't enjoy the people I'm eating with or that I always avoid drinking. (I had some wine and bourbon this past week.) It's that every meal is a calculated choice. I have to be deliberate before I eat to decide what I will and won't eat ahead of time. That is a constant effort that will most likely never change. It is much easier at home, in a controlled environment, but I am working on making this WOE (way of eating) sustainable by not becoming a hermit, by going out to eat with family and friends, by enjoying travel.
 
-I am a software developer. I co-founded [MoonClerk](https://www.moonclerk.com) in 2012 and [DeerLab](https://www.deerlab.com) in 2013. In the software startup space  Paul Graham used the term "Trough of Sorrow" to refer to the time after the initial excitement of launch but before the company achieves product-market fit and the path forward. 
+I am a software developer. I co-founded [MoonClerk](https://www.moonclerk.com) in 2012 and [DeerLab](https://www.deerlab.com) in 2013. In the software startup space  Paul Graham used the term "Trough of Sorrow" to refer to the time after the initial excitement of launch but before the company achieves product-market fit and the path forward.
 
 {% include figure.html path="blog/food-as-medicine/trough-of-sorrow.png" caption="Source: Paul Graham via andrewchen.co" caption_url="http://andrewchen.co/after-the-techcrunch-bump-life-in-the-trough-of-sorrow/" %}
 
